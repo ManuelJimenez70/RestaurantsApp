@@ -1,0 +1,34 @@
+{"restaurantList": [
+    {
+        "image": "src\\resources\\images\\Dominos Pizza.png",
+        "name": "Dominos Pizza",
+        "productList": [
+            {
+                "nameProduct": "Americana",
+                "prize": "$28000"
+            },
+            {
+                "nameProduct": "Hawaiana",
+                "prize": "$15000"
+            }
+        ]
+    },
+    {
+        "image": "src\\resources\\images\\Mcdonalds.png",
+        "name": "Mcdonalds",
+        "productList": [{
+            "nameProduct": "MCnifica",
+            "prize": "$19000"
+        }]
+    },
+    {
+        "image": "src\\resources\\images\\Wok.png",
+        "name": "Wok",
+        "productList": [
+            {
+                "nameProduct": "SushiLucky",
+                "prize": "$39000"
+            }
+        ]
+    }
+]}
